@@ -23,7 +23,7 @@ const aboutp = document.querySelector('.aboutp');
 
 const aboutContentp = `
     <div>
-        <p>
+        <p class="projab">
         After two years of work-study training in the metal industry.I decided to go to a design school to discover a multitude of skills and open up to different applications.Today, after my three years at the school, I'd like to deepen my experimental and digital practice.
         </p>
     </div>
