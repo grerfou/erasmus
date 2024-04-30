@@ -8,9 +8,9 @@ const imagePaths = {
     'glass': 'data/untitled.jpg',
     'mold': 'data/pres.jpeg',
     'Exp': 'data/pres1.jpeg',
-    'Ant': 'data/disp.png',
-    'Organism': 'data/boid.png',
-    'room': 'data/VetF.png'
+    'Ant': 'data/disp.jpg',
+    'Organism': 'data/boid.jpg',
+    'room': 'data/VetF.jpg'
 };
 
 function showImage(elementId) {
